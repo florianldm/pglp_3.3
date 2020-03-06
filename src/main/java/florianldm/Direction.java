@@ -5,4 +5,8 @@ public enum Direction {
     SUD,
     EST,
     OUEST;
+
+    public static Direction setDirection(){
+        return NORD;
+    }
 }
