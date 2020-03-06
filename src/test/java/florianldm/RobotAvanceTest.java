@@ -1,5 +1,4 @@
 package florianldm;
-
 import org.junit.*;
 import org.junit.Assert;
 
@@ -13,5 +12,4 @@ public class RobotAvanceTest {
         Assert.assertTrue(p.getX() == r.getPosition().getX());
         Assert.assertTrue(p.getY() == r.getPosition().getY());
     }
-
 }
