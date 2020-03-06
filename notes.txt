@@ -1,0 +1,1 @@
+1) La solution ne respecte pas LSP car si on instancie un RobotStatique, le fait d'avancer ne va pas avoir le même comportement qu'avec la super classe Robot. Ici, on va avoir une exception de lancée. 
