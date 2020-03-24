@@ -1,5 +1,8 @@
 package florianldm;
 
 public interface Avancer {
-    public void avancer();
+    /**
+     * Méthode avancer.
+     */
+    void avancer();
 }

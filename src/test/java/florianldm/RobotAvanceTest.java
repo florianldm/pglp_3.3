@@ -3,8 +3,11 @@ import org.junit.*;
 import org.junit.Assert;
 
 public class RobotAvanceTest {
+    /**
+     * Test avance.
+     */
     @Test
-    public void testAvance(){
+    public void testAvance() {
         RobotAvance r = new RobotAvance();
         r.avancer();
         Position p = new Position(1,2);

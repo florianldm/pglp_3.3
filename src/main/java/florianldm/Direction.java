@@ -1,12 +1,20 @@
 package florianldm;
 
 public enum Direction {
+    /** N. */
     NORD,
+    /** S. */
     SUD,
+    /** E. */
     EST,
+    /** O. */
     OUEST;
 
-    public static Direction setDirection(){
+    /**
+     * setter.
+     * @return NORD.
+     */
+    public static Direction setDirection() {
         return NORD;
     }
 }
