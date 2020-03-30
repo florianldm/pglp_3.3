@@ -1,4 +1,4 @@
-#Sat Mar 28 14:08:28 CET 2020
+#Mon Mar 30 04:02:20 CEST 2020
 configuration*?=13D9E8E5D1063A233DD74B6BEC008771B51A2E03
 C\:\\Users\\ledem\\Desktop\\INFO\\M1\\PGLP\\pglp_3.3\\src\\main\\java\\florianldm\\Robot.java=1585064462488
 module-resource*?\:checkstyle-xpath-suppressions.xml=F9DA16886B74D8E429988D2548D2D781261E32FA
@@ -6,5 +6,6 @@ C\:\\Users\\ledem\\Desktop\\INFO\\M1\\PGLP\\pglp_3.3\\src\\main\\java\\florianld
 C\:\\Users\\ledem\\Desktop\\INFO\\M1\\PGLP\\pglp_3.3\\src\\main\\java\\florianldm\\RobotAvance.java=1585064392163
 module-resource*?\:checkstyle-suppressions.xml=F663EBE0C31E0940C7799468FA39DD090AB69743
 C\:\\Users\\ledem\\Desktop\\INFO\\M1\\PGLP\\pglp_3.3\\src\\main\\java\\florianldm\\Avancer.java=1585064044593
+C\:\\Users\\ledem\\Desktop\\INFO\\M1\\PGLP\\pglp_3.3\\src\\main\\java\\florianldm\\package-info.java=1585533510669
 C\:\\Users\\ledem\\Desktop\\INFO\\M1\\PGLP\\pglp_3.3\\src\\main\\java\\florianldm\\Direction.java=1585064249663
 C\:\\Users\\ledem\\Desktop\\INFO\\M1\\PGLP\\pglp_3.3\\src\\main\\java\\florianldm\\RobotStatique.java=1585064405713
